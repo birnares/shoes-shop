@@ -1,1 +1,1 @@
-Интернет магазин кроссовок на React (hooks, components, route, data)
+Интернет магазин кроссовок на React (hooks, components, route, json)
