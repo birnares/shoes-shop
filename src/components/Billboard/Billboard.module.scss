@@ -1,0 +1,49 @@
+.billboard {
+  position: relative;
+  width: 960px;
+  height: 300px;
+  background-color: #f4efe9;
+  border-radius: 20px;
+  margin: 45px auto 0;
+  .logo {
+    margin: 16px 0 0 20px;
+  }
+  .info {
+    justify-content: space-between;
+    margin: 40px 0 0 65px;
+    .titleUp {
+      font-size: 38px;
+      font-weight: 700;
+      color: #8bb43c;
+      line-height: 25px;
+    }
+    .titleDown {
+      font-size: 38px;
+      font-weight: 700;
+      color: #000;
+      line-height: 20px;
+    }
+    .btn {
+      width: 170px;
+      height: 47px;
+      padding: 0;
+      border: none;
+      border-radius: 110px;
+      background-color: #A5D364;
+
+      color: #fff;
+      font-size: 16px;
+      text-transform: uppercase;
+      font-weight: 700;
+
+      margin-top: 15px;
+      cursor: pointer;
+    }
+  }
+  .frog {
+    position: absolute;
+    top: 0;
+    right: 100px;
+    left: 320px;
+  }
+}
